@@ -25,3 +25,5 @@ Note: we can also make the bean using @bean as well but it will only implement o
 
 REST API: REPRESENTABLE STATE TRANSFER. and the API (Application Programming Interface). 
 Ok so lets imagine an Senario: You wnat to open the netflix. So you are the user of netflix and using the Rest API your phone/device can able to intreact with Netflix server. Your device is sending request and the server is giving response in return.
+
+
